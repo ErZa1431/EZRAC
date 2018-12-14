@@ -143,7 +143,7 @@ background: url(../image/dawn.jpg) no-repeat center center fixed;
 
 }
 #box1{
-	background-image:url(../image/beach.jpg);
+	background-image:url(../image/beach.JPG);
 	background-size: 500px 300px;
 	background-repeat: no-repeat;
 	grid-column:1/2;
